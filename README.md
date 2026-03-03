@@ -171,7 +171,7 @@ The record must contain:
 * `String description`
 * `long timestamp`
 
-#### Create a SecurityAlertManager class
+#### Update the SecurityAlertManager class
 
 This class must:
 
@@ -211,7 +211,7 @@ Then use a modern switch expression to return recommendations:
 
 #### Demonstration / Test Harness
 
-The demonstration harness can be found in the `src/main/java/edu/norcocollege/cis18b/week2/alerts` directory.
+The demonstration harness can be found in the `src/main/java/edu/norcocollege/cis18b/week2/alerts` directory and is called `App.java`.
 
 Update the main method that:
 
