@@ -232,7 +232,7 @@ System.out.println("""
 ```
 
 ### Submission Requirement
-Your PR should have the `SecurityAlert.java`, `SecurityAlergManager.java`, and `SecurityAlertMain.java` files, and they should pass all of the automated tests.
+Your PR should have the `SecurityAlert.java`, `SecurityAlertManager.java`, and `App.java` files, and they should pass all of the automated tests.
 
 #### Stretch Goal (Optional)
 
